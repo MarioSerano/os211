@@ -8,6 +8,7 @@ Hello, my name is Mario Serano, explore my works here:
 * [SHA256SUM ASC Download](https://marioserano.github.io/os211/TXT/SHA256SUM.asc)
 * [Public Key](https://marioserano.github.io/os211/TXT/mypubkey.txt)
 * [Github Page Ranking](https://marioserano.github.io/os211/TXT/mypubkey.txt)
+* [Top 10 List](w02)
 
 # General
 * [Log](https://marioserano.github.io/os211/TXT/mylog.txt)
