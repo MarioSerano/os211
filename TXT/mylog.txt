@@ -18,3 +18,10 @@ ZCZC W01 60 L08 Debugging debian for .ova
 ZCZC W01 40 L09 Asking Asdos(EU) but let to no avail
 ZCZC W01 180 L08 Downloading Ubuntu instead in accordance with MYM's lead
 ZCZC W01 40 L08 Installing Ubuntu & Trying out Linux's Bash
+
+# Week 02
+ZCZC W02 30 L04 Setting up github pages for more information in the readme
+ZCZC W02 60 L05 Googles a lot of things consisting on permissions, VIM, etc
+ZCZC W02 60 L21 Setting up SSH, GNU, a lot of things in having Ubuntu and Debian talking
+ZCZC W02 60 L12 Doing this week's main checklist, SHA256, myrank, etc.
+ZCZC W02 180 L06 Reading references to fill out this week's ranking references
