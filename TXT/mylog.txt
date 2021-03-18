@@ -19,3 +19,10 @@ ZCZC W02 60 L05 Googles a lot of things consisting on permissions, VIM, etc
 ZCZC W02 60 L21 Setting up SSH, GNU, a lot of things in having Ubuntu and Debian talking
 ZCZC W02 60 L12 Doing this week's main checklist, SHA256, myrank, etc.
 ZCZC W02 180 L06 Reading references to fill out this week's ranking references
+ZCZC W03 180 L02 Zoom meeting for synchronous class
+ZCZC W03 15 L13 Updating bash aliases
+ZCZC W03 30 L16 Adding Log(Accumulative)
+ZCZC W03 30 L17 myW03.tar.bz2.asc configuration
+ZCZC W03 15 L18 Updating myscript.sh
+ZCZC W03 5 L19 Signing every file
+ZCZC W03 30 L14 Adding myrank to TXT and modifying it
