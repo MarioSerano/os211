@@ -16,8 +16,8 @@ Hello, my name is Mario Serano, explore my works here:
 
 # Weekly Top 10
 * [Week 01](w01)
-* [Week 02](w02)
-* Week 03
+* [Week 02](W02)
+* [Week 03](W03)
 * Week 04
 * Week 05
 * Week 06
