@@ -27,3 +27,7 @@ ZCZC W03 15 L18 Updating myscript.sh
 ZCZC W03 5 L19 Signing every file
 ZCZC W03 30 L14 Adding myrank to TXT and modifying it
 ZCZC W03 180 L06 Reading references to fil lout this week's ranking references
+ZCZC W04 180 L06 Reading references for this week's ranking references
+ZCZC W04 15 L17 Updating myscript.sh
+ZCZC W04 30 L16 Configuration&Reading for myW04.tar.bz2.asc
+ZCZC W04 5 L17 Signing every file
