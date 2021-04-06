@@ -21,6 +21,7 @@ REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
+
 [ -d $HOME/RESULT ] || mkdir -p $HOME/RESULT
 pushd $HOME/RESULT
 for II in W?? ; do
