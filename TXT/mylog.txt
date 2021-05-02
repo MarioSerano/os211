@@ -38,3 +38,8 @@ ZCZC W06 10 L14 Updating myscript.sh
 ZCZC W06 5 L16 Signing every file
 ZCZC W06 5 L15 Updating mylog.txt
 ZCZC W06 30 L12 Reading & Adding myrank.txt
+ZCZC W07 5 L15 Updating mylog.txt
+ZCZC W07 30 L14 Configuration for myW07.tar.bz2.asc
+ZCZC W07 5 L16 Sign every file
+ZCZC W07 180 L06 Reading references to fill out this week's ranking references
+ZCZC W07 30 L13 Describing & making urls week07's markdown
