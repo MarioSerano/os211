@@ -48,3 +48,8 @@ ZCZC W08 60 L14 Configuration for myW08.tar.bz2.asc
 ZCZC W08 5 L16 Sign every file
 ZCZC W08 180 L06 Reading references to fill out this week's ranking references
 ZCZC W08 30 L13 Describing & making urls WEEK08's markdown
+ZCZC W09 5 L15 Updating mylog.txt
+ZCZC W09 300 L14 Configuration for myW09.tar.bz2.asc(unfinished)
+ZCZC W09 5 L16 Sign every file
+ZCZC W09 180 L06 Reading references to fill out this week's ranking references
+ZCZC W09 30 L13 Describing & making urls WEEK09's markdown
